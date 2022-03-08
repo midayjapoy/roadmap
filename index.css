@@ -1,0 +1,62 @@
+.container {
+	height: 100vh;
+	background-color: red;
+}
+
+.m-container {
+	height: 100vh;
+}
+
+.r-wrapper {
+	display: flex;
+	padding-top: 30vh;
+	padding-left: 30px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.r-title {
+	font-size: 100px;
+	padding-top: 0;
+}
+
+.r-desc {
+	font-size: 40px;
+	font-weight: 400;
+	color: white;
+}
+
+.a1 {
+	color: white;
+	text-decoration: none;
+	font-size: 50px;
+}
+
+.m-container {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+}
+
+.l-title {
+	color: white;
+	text-align: center;
+
+}
+
+#roadmap {
+	height: 500px;
+	width: 500px;
+}
+
+
+
+* {
+
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+}
+
